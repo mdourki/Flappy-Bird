@@ -1,6 +1,6 @@
 # Flappy-Bird
 Flappy Bird is a 2D game made by using Unity 2D and C#.
-
+---------------------------------------------------------
 You can find the source code in "Flappy Bird"
 
 .
